@@ -2,5 +2,5 @@
 
 Ana-Marija Miljovska 153082
 
+![153082_Lab2](https://user-images.githubusercontent.com/100883108/171840253-e1e5cdec-d3a5-424e-907b-2ed33850e902.png)
 
-![153082_Lab2](https://user-images.githubusercontent.com/100883108/171840105-623ee28b-c13d-4c7a-ab68-7ef6f1092193.png)
