@@ -13,11 +13,16 @@ Ana-Marija Miljovska 153082
 4. Every statement:
 
    Test 1: 1, 3, 4, 5, 7, 8, 23 (false = 1, 5, 8)
-   Test 2: 1, 3, 4, 5, 7, 8, 9, 21, 22, 23 (false = 1, 5, 9)
-   Test 3: 1, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 16, 18, 20, 23 (false = 1, 5, 16, 18)
+   
+   Test 2: 1, 3, 4, 5, 7, 8, 9, 10, 11, 12, 13, 16, 18, 20, 23 (false = 1, 5, 16, 18)
+   
+   Test 3: 1, 3, 4, 5, 7, 8, 9, 21, 22, 23 (false = 1, 5, 9)
+
   
 5. Every branch:
    
    Test 1: A, B, D (B is true and throws exception stopping the execution)
+   
    Test 2: A, B, C, E, F, H, I, J, K, L, M, Q, S, U, V, J (M, Q, S are false)
+   
    Test 3: A, B, C, E, F, H, I, J, K, L, M, N, O, Q, R, S, T, U, V, J (all are true)
